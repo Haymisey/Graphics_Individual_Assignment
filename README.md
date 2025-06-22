@@ -1,4 +1,4 @@
-3D Product Viewer
+# 3D Product Viewer
 # Haymanot Abera UGR/9265/15
 
 A simple, interactive 3D lamp viewer application built with Three.js and Vite.
